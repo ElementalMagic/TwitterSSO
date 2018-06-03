@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TwitterSSO</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">a8akA41Q5Ljy1fexQa3NdaqO7JmMefF8YY21Rj4ZzI0JfIFhj2</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">ZLPFXR5tjRPYBYF8helnZwI5A</string>
+
+</resources>
